@@ -5,3 +5,5 @@ This project is for Git practice.
 Run the project using Git.
 ## Project Status
 This project is ready for GitHub.
+## Contribution
+This project demonstrates open source collaboration.
